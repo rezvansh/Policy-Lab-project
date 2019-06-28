@@ -1,4 +1,3 @@
-setwd("/Users/mcanderson92/Desktop/Datahack@Yale2017")
 ######### Load Binary complaints network 
 library(igraph)
 netwk = read.table("Complaints_AdjMatrix_Binary.txt")
